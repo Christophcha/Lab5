@@ -12,7 +12,7 @@ public class Input {
 		int rowCount = 1;
 
 		Scanner reader = new Scanner(
-				new File("C:\\Users\\Christopher\\eclipse-workspace\\Lab5.exercise1\\src\\input.csv"));
+				new File("C:\\Users\\Christopher\\git\\Lab5\\Lab5.exercise1\\src\\input.csv"));
 
 		System.out.println("Maximum Values");
 

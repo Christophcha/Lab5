@@ -12,7 +12,7 @@ public class StringReversal {
 		
 		//String rev = reverseString(s);
 
-		System.out.println("Your reversed string is: " + reverseString(s));
+		System.out.println("Your reversed string is: " + reverseString(s)); // calls reverseString method in print statement
 		
 		scan.close();
 	}
